@@ -1,0 +1,27 @@
+#box1{
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+    font-weight: bold;
+    width: 400px;
+}
+#box2{
+    text-align: center;
+    background-color: rgb(255, 127, 127);
+    color: rgb(47, 255, 0);
+    font-weight: bold;
+    width: 400px;
+}
+.box3{
+    text-align: center;
+    background-color: rgb(144, 127, 255);
+    color: rgb(225, 255, 0);
+    font-weight: bold;
+    width: 400px;
+    margin: 30px;
+}
+.box4{
+    height: 20px;
+    background-color: blanchedalmond;
+    border: 2px solid black;
+}
